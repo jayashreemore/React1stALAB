@@ -1,0 +1,42 @@
+/* styles.css */
+
+/* App */
+.app {
+    display: flex;
+}
+
+/* HomePage */
+.home-page {
+    width: 50%;
+    /* Left side takes 50% of the container */
+    padding: 20px;
+    border-right: 2px solid #000;
+    /* Black border on the right side */
+}
+
+/* EmployeePage */
+.employee-page {
+    width: 50%;
+    /* Right side takes 50% of the container */
+    padding: 20px;
+}
+
+/* Header */
+.header {
+    border: 2px solid blue;
+}
+
+/* SearchBar */
+.search-bar {
+    border: 2px solid green;
+}
+
+/* EmployeeList */
+.employee-list {
+    border: 2px solid purple;
+}
+
+/* EmployeeListItem */
+.employee-list-item {
+    border: 2px solid red;
+}
